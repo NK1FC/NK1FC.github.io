@@ -1,3 +1,4 @@
+<head><script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
 <div class="cont s--inactive">
   <!-- cont inner start -->
   <div class="cont__inner">
@@ -15,6 +16,7 @@
           </div>
         </div>
       </div>
+      <head><script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
       <div class="el__index">
         <div class="el__index-back">1</div>
         <div class="el__index-front">
@@ -59,6 +61,7 @@
           </div>
         </div>
       </div>
+      <head><script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
       <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <div class="el__index">
         <div class="el__index-back">3</div>
@@ -68,6 +71,7 @@
         <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       </div>
     </div>
+    <head><script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
     <!-- el end -->
     <!-- el start -->
     <div class="el">
@@ -80,6 +84,7 @@
           </div>
           <div class="el__content">
             <div class="el__text">Whatever</div>
+            <head><script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
             <div class="el__close-btn"></div>
           </div>
         </div>
