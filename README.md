@@ -59,11 +59,13 @@
           </div>
         </div>
       </div>
+      <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <div class="el__index">
         <div class="el__index-back">3</div>
         <div class="el__index-front">
           <div class="el__index-overlay" data-index="3">3</div>
         </div>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       </div>
     </div>
     <!-- el end -->
@@ -74,6 +76,7 @@
           <div class="el__bg"></div>
           <div class="el__preview-cont">
             <h2 class="el__heading">Section 4</h2>
+            <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           </div>
           <div class="el__content">
             <div class="el__text">Whatever</div>
