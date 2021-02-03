@@ -9,14 +9,38 @@
         <li><a href="#">Technologies</a></li>
         <li><a href="#">Projects</a></li>
         <li><a href="#">Contacts</a></li>
+        <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
       </ul>
     </nav>
   </header>
   <main role="main">
+     <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
     <section class="sec-intro" role="section">
       <img src="https://www.techweekeurope.co.uk/wp-content/uploads/2012/07/wifimountaindownload.jpg" alt="" />
       <h1>Be Innovative!</h1>
     </section>
+     <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
+    <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
+    <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
+    <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
+    <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
+    <head>
+        <script data-ad-client="ca-pub-5090443432247787" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        </head>
     <section class="sec-boxes" role="section">
       <adrticle class="box">
         <h1>Open-minded</h1>
